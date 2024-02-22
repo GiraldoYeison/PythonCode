@@ -1,0 +1,18 @@
+JOhn is a freelance video producer who makes TV commercials, When he makes a commercial, he usually films several short videos.
+later, he puts these short videos together to make the final commercial.
+He has asked you to write the following two programs.
+
+1- A program that allows him to enter the running times (in secods) of each short video in the project.
+the running times are saved to a file.
+
+2- A program that reads the contents of the file, displays the running times and then displays the total running
+time of all the segments.
+
+pseudocode:
+
+-Get the number of videos in the project.
+-open an output file.
+-for each video in the project:
+  -get the video's running time.
+  -write the running time to the file
+-close the file
