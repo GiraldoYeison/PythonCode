@@ -1,0 +1,13 @@
+General algorithmg for the second program
+
+-initialize an accumulator to 0
+-Initialize a count variable to 0
+-open the input file.
+-for each line in the file:
+  -convert the line to a floating-point number. (this is the running time for a video.)
+  -Add one to the count variable. (This keeps count of the number of videos).
+  -display the running time for the video
+  -add the running time to the accumulator.
+-close the file
+Display the contents of the accumulator as the total running time.
+  
